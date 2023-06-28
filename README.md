@@ -5,10 +5,15 @@ and seeing all rooms that have been assigned. Two key C++ concepts-classes and f
 
 # Features of Hotel Management System in C++
 *Manage Rooms
+
 *Check-In
+
 *Get available rooms
+
 *Search customer
+
 *Check-out room
+
 *Get guest summary report
 
 1.class()
@@ -50,4 +55,5 @@ Hence the output of the system.....
 
 
 #######################################
+
 Enter Option:
